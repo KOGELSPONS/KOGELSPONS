@@ -2,9 +2,9 @@
 
 👀 I’m interested in Coding, Gaming
 
-🌱 I’m currently learning: C#, Lua, Java
+🌱 I’m currently learning: Python, Javascript
 
-👾 I'm currently using: Javascript, Lua, Python, Java
+👾 I'm currently using: Javascript, Lua, Python
 
 👨‍💻 I'm able to code in: HTML/CSS, Javascript, Python, Lua, Java
 
